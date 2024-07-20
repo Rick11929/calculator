@@ -8,4 +8,3 @@
 #----------------------------------------------------------------------------#
 Copy the files into the httpd docs folder.
 
-"The line is invalid." 
