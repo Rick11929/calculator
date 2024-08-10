@@ -59,3 +59,5 @@ print("<h2>Is %s</h2>" % answer)
 print("</body>")
 print("</html>")
 
+ "This is the python calculator 
+"This is the python calculator program" 
